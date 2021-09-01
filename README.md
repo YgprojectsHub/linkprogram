@@ -48,7 +48,7 @@ namespace linkprogram
             }
             if (textBox1.TextLength == 0)
             {
-                MessageBox.Show("Boş link verilmez!");
+                MessageBox.Show("No empty links!");
             }
 
             else
